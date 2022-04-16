@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Axel Cisneros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://axelcisneros.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://axelcisneros.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La cultura en el desarrollo de software</title>
+      <link>https://axelcisneros.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Fri, 15 Apr 2022 18:16:21 -0600</pubDate>
+      
+      <guid>https://axelcisneros.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Hola a todos.
+Para mi la cultura de desarrollo de software se basa en:
+ Trabajo en equipo. Compartir el conocimiento. Respeto. Aprender de las experiencias. Aprender de los demas.  </description>
+    </item>
+    
     <item>
       <title>Mi aprendizage en LaunchX</title>
       <link>https://axelcisneros.github.io/my_launchx_blog/posts/post_1/</link>
@@ -16,17 +27,6 @@
       <description>Hola a todos.
 Cuando me registre pensando en retomar mi gusto por la programación, en verdad no visualizaba el impacto que esto trairia a mi vida, por lo que quiero compartir el camino recorrido hasta ahora.
  OnBoarding: Conoci un nuevo lenguage de progamación llamado Python, con nuevas sintaxis y comandos. FrontEND: Retome mi conocimiento en HTML, aprendi nuevas etiquetas y nuevas formas de darle vida y color a los proyectos.</description>
-    </item>
-    
-    <item>
-      <title>La cultura en el desarrollo de software</title>
-      <link>https://axelcisneros.github.io/my_launchx_blog/posts/intro/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
-      
-      <guid>https://axelcisneros.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>Hola a todos.
-Para mi la cultura de desarrollo de software se basa en:
- Trabajo en equipo. Compartir el conocimiento. Respeto. Aprender de las experiencias. Aprender de los demas.  </description>
     </item>
     
     <item>
